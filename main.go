@@ -44,7 +44,7 @@ func (g *Game) Layout(outsideWidth, outsideHeight int) (screenWidth, screenHeigh
 
 func main() {
 	ebiten.SetWindowSize(1080, 800)
-	ebiten.SetWindowTitle("Hello World")
+	ebiten.SetWindowTitle("Worms Washer")
 
 	err := assets.AddFont("jersey", "./assets/fonts/Jersey.ttf")
 	if err != nil {
