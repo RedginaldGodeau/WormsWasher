@@ -34,6 +34,4 @@ Si vous souhaitez compiler le jeu pour d'autres systèmes d'exploitation ou si v
 
 Worm Washer est entièrement développé en **Go**.
 
----
-
-N'hésitez pas si vous avez besoin d'ajustements ou si vous souhaitez ajouter plus de détails \!
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
